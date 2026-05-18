@@ -6,6 +6,7 @@
 <h3>AI Engineer @ WiseDreamerz | AI & Data Science Undergraduate</h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+Systems;Deep+Learning+%7C+LLMs+%7C+MLOps;FastAPI+%7C+React+%7C+AWS;Turning+Ideas+Into+Real-World+Products" alt="Typing SVG" />
+<p align="center"> <img src="./coding-girl.gif" width="280"/> </p>
 
 </div>
 
